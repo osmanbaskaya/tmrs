@@ -3,7 +3,7 @@
 
 
 __author__ = ("Onur Kuru", "Osman Baskaya")
-__date__ ="$Sep 20, 2011 00:43:16 PM$"
+__date__ ="$Sep 20, 2011 00:43:16 AM$"
 
 """ Movie Recommendation Systems """
 
