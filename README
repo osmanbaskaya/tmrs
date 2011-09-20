@@ -1,0 +1,3 @@
+tmrs is a tiny movie recommendation systems.
+
+It builds a decision tree and fetch movie according to the user's taste.
